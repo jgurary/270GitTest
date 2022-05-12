@@ -10,6 +10,12 @@ public class Driver {
 			s.submit();
 		}
 
+		for (ExamSubmitter s : submitters) {
+			if (s.checkSubmitted()) {
+				System.out.println(s.name + " got this question right.");
+			}
+		}
+
 	}
 
 }

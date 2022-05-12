@@ -19,7 +19,6 @@ public abstract class ExamSubmitter {
 	 * grade on this question.
 	 */
 	public void submit() {
-		System.out.println(name + " has submitted");
 		hasSubmitted = true;
 	}
 
