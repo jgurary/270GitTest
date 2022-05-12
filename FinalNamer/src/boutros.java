@@ -1,9 +1,9 @@
-public class Canela extends ExamSubmitter {
+public class boutros extends ExamSubmitter {
 
 	/**
 	 * This is the worse I have done in ages. I hate this.
 	 */
-	public Boutros() {
+	public boutros() {
 		super("Semaan Boutros");
 	}
 
