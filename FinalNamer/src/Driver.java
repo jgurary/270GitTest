@@ -5,6 +5,7 @@ public class Driver {
 	public static void main(String[] args) {
 		ArrayList<ExamSubmitter> submitters = new ArrayList<ExamSubmitter>();
 		submitters.add(new Gurary());
+		submitters.add(new Canela());
 
 		submitters.add(new Le());
 
