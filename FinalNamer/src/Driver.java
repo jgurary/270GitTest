@@ -5,7 +5,9 @@ public class Driver {
 	public static void main(String[] args) {
 		ArrayList<ExamSubmitter> submitters = new ArrayList<ExamSubmitter>();
 		submitters.add(new Gurary());
-
+		submitters.add(new Boutros());
+		submitters.add(new Rached());
+    submitters.add(new Kermoshchuk());
 		submitters.add(new Mathis());
 
 		submitters.add(new Boutros());
