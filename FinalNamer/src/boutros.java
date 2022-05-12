@@ -1,7 +1,7 @@
 public class Canela extends ExamSubmitter {
 
 	/**
-	 * The man, the myth, the legend.
+	 * This is the worse I have done in ages. I hate this.
 	 */
 	public Boutros() {
 		super("Semaan Boutros");
