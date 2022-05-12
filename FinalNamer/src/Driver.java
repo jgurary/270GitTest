@@ -5,11 +5,11 @@ public class Driver {
 	public static void main(String[] args) {
 		ArrayList<ExamSubmitter> submitters = new ArrayList<ExamSubmitter>();
 		submitters.add(new Gurary());
-<<<<<<< Updated upstream
+
+		submitters.add(new Mathis());
+
 		submitters.add(new Boutros());
-=======
 		submitters.add(new Rached());
->>>>>>> Stashed changes
 
 		for (ExamSubmitter s : submitters) {
 			s.submit();
